@@ -3,7 +3,7 @@
     <title>Akeem_java_project</title>
   </head>
   <body bgcolor="#FFFF00">
-    <h1>Jenkins is a CI/CD pipeline tool, it helps to integrate devops tools to automate delivery of application or software. I like terraform as an IAAC because it is an open source </h1>
+    <h1>Jenkins makes integration so easy and once i edit a code inside my Github , it reflect immediately within 1 min because of my cron job , this is awesome and thanks for the class </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
             <p>Tell me what you understand by CI/CD pipeline and relate it to DevOps </p> <!--This control is for mutplie line comment-->
