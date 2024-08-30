@@ -2,7 +2,7 @@
   <head>
     <title>Akeem_java_project</title>
   </head>
-  <body bgcolor="#7FFF00">
+  <body bgcolor="#FFFF00">
     <h1>Jenkins is a CI/CD pipeline tool, it helps to integrate devops tools to automate delivery of application or software. I like terraform as an IAAC because it is an open source </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
